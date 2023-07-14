@@ -1,17 +1,18 @@
 package application;
 
-import java.util.Scanner;
-
 public class Application {
 
     public void run(){
-        String enteredName = new Scanner(System.in).nextLine();
+//        int, String,
+//        new Scanner(System.in).nextLine(); en .nextInt()
+//        System.out.println();
 
-//        Person person = new Person();
-//        person.setAge(32);
-//        person.setName("Rutger");
-//        person.setGender("Hello!");
+//        With the scanner ask for 2 numbers and print the sum
+//        Bonus: When a number greater than 10 is entered print a message like: That's a big number!
 
-        System.out.println("Hello " + enteredName);
+//        With the scanner ask for a name and print: Hello <name>
+//        if the name is equals to your name, print: Hello me!
+
+
     }
 }
